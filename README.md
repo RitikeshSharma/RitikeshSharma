@@ -1,4 +1,4 @@
-### Hi there, I'm Ritikesh Sharma - aka [Ritzy][website] 👋
+### Hi there, I'm Ritikesh Sharma - aka [Ritzy][https://www.youtube.com/channel/UC2zu5Ms9MQWg7-OonfCO47g] 👋
 
 <!--- just<[comment]:  [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)> --->
  [![Twitter Follow](https://img.shields.io/twitter/follow/ritikeshritzy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ritikeshritzy)
