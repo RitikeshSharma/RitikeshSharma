@@ -36,10 +36,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]<!--[webdevplaylist]-->
 <br />
 <br />
-
----
-
-
 [website]: https://www.youtube.com/channel/UC2zu5Ms9MQWg7-OonfCO47g
 <!--[course]: http://vsCodeHero.com-->
 [twitter]: https://twitter.com/ritikeshritzy
