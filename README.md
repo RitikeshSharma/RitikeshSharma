@@ -3,7 +3,7 @@
 <!--- just<[comment]:  [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)> --->
  [![Twitter Follow](https://img.shields.io/twitter/follow/ritikeshritzy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ritikeshritzy)
 
-## I'm a Student, Chess Player, Developer, Dancer and Teacher!!
+## I'm a Student, Coder and Teacher!!
 
 - 🔭 Currently pursuing Master of computer Application
 - 🌱 I’m currently learning everything 🤣
