@@ -7,7 +7,6 @@
 
 - 🔭 Currently pursuing Master of computer Application
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to dance and play chess. Wanna try ping me 😁
 
 
 
